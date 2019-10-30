@@ -2,16 +2,16 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+DeVelvis-FPS/[Ll]ibrary/
+DeVelvis-FPS/[Tt]emp/
+DeVelvis-FPS/[Oo]bj/
+DeVelvis-FPS/[Bb]uild/
+DeVelvis-FPS/[Bb]uilds/
+DeVelvis-FPS/[Ll]ogs/
+DeVelvis-FPS/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
-!/[Aa]ssets/**/*.meta
+!DeVelvis-FPS/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -23,7 +23,7 @@
 [Aa]ssets/Plugins/Editor/JetBrains*
 
 # Visual Studio cache directory
-.vs/
+DeVelvis-FPS/.vs/
 
 # Gradle cache directory
 .gradle/
